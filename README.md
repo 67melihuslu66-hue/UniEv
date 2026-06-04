@@ -231,7 +231,8 @@ adresinde çalışacaktır.
 
 ## Giriş Sayfası
 
-🔴🔴🔴 BURAYA GİRİŞ SAYFASI GÖRSELİNİ EKLEYİN 🔴🔴🔴
+<img width="1864" height="907" alt="image" src="https://github.com/user-attachments/assets/d8fa79fd-8c33-4b77-abff-a050040a182d" />
+
 
 ```md
 ![Giriş](screenshots/login.png)
@@ -241,7 +242,8 @@ adresinde çalışacaktır.
 
 ## Kayıt Sayfası
 
-🔴🔴🔴 BURAYA KAYIT SAYFASI GÖRSELİNİ EKLEYİN 🔴🔴🔴
+<img width="1844" height="906" alt="image" src="https://github.com/user-attachments/assets/bbda959b-397a-4447-a1eb-d52a69072b95" />
+
 
 ```md
 ![Kayıt](screenshots/register.png)
@@ -251,7 +253,8 @@ adresinde çalışacaktır.
 
 ## İlanlar Sayfası
 
-🔴🔴🔴 BURAYA İLANLAR SAYFASI GÖRSELİNİ EKLEYİN 🔴🔴🔴
+<img width="1866" height="788" alt="image" src="https://github.com/user-attachments/assets/980984c6-3b0c-44e5-92ba-f881b58a93e2" />
+
 
 ```md
 ![İlanlar](screenshots/listings.png)
@@ -261,7 +264,8 @@ adresinde çalışacaktır.
 
 ## İlan Detay Sayfası
 
-🔴🔴🔴 BURAYA İLAN DETAY SAYFASI GÖRSELİNİ EKLEYİN 🔴🔴🔴
+<img width="1863" height="844" alt="image" src="https://github.com/user-attachments/assets/9d7d52e1-fcd3-4eb0-be54-d85b437f8947" />
+
 
 ```md
 ![İlan Detayı](screenshots/listing-detail.png)
@@ -271,7 +275,8 @@ adresinde çalışacaktır.
 
 ## Profil Sayfası
 
-🔴🔴🔴 BURAYA PROFİL SAYFASI GÖRSELİNİ EKLEYİN 🔴🔴🔴
+<img width="1842" height="912" alt="image" src="https://github.com/user-attachments/assets/cafb74c3-101c-4421-896c-3b3eee8c0a91" />
+
 
 ```md
 ![Profil](screenshots/profile.png)
@@ -281,7 +286,8 @@ adresinde çalışacaktır.
 
 ## Mesajlaşma Sistemi
 
-🔴🔴🔴 BURAYA MESAJLAŞMA SAYFASI GÖRSELİNİ EKLEYİN 🔴🔴🔴
+<img width="1838" height="903" alt="image" src="https://github.com/user-attachments/assets/8ee5294d-7a66-41d9-a245-dc8fe1e4c9ca" />
+
 
 ```md
 ![Mesajlaşma](screenshots/messages.png)
@@ -291,7 +297,8 @@ adresinde çalışacaktır.
 
 ## Ev Arkadaşı Eşleştirme
 
-🔴🔴🔴 BURAYA EŞLEŞTİRME SAYFASI GÖRSELİNİ EKLEYİN 🔴🔴🔴
+<img width="1855" height="906" alt="image" src="https://github.com/user-attachments/assets/8a866929-2d51-42b8-9b5a-2c120c46a4f8" />
+
 
 ```md
 ![Eşleştirme](screenshots/match.png)
@@ -301,7 +308,8 @@ adresinde çalışacaktır.
 
 ## Yönetici Paneli
 
-🔴🔴🔴 BURAYA YÖNETİCİ PANELİ GÖRSELİNİ EKLEYİN 🔴🔴🔴
+<img width="1848" height="904" alt="image" src="https://github.com/user-attachments/assets/667e9d59-8d98-453c-9e4f-7da3b5c03e1b" />
+
 
 ```md
 ![Admin](screenshots/admin.png)
