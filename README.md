@@ -220,8 +220,8 @@ adresinde çalışacaktır.
 # 📸 Ekran Görüntüleri
 
 ## Ana Sayfa
+<img width="1849" height="916" alt="image" src="https://github.com/user-attachments/assets/8eaf5de1-109c-4c45-bac2-c71d203643c4" />
 
-🔴🔴🔴 BURAYA ANA SAYFA GÖRSELİNİ EKLEYİN 🔴🔴🔴
 
 ```md
 ![Ana Sayfa](screenshots/homepage.png)
