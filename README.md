@@ -1,68 +1,102 @@
-#  UniEv
+# 🏠 UniEv
 
-Üniversite öğrencileri için geliştirilmiş modern bir web platformudur. UniEv, kullanıcıların ev arkadaşı bulmasını, konut ilanları paylaşmasını ve akıllı eşleşme sistemi sayesinde en uygun seçeneklere hızlıca ulaşmasını sağlar.
+## 📌 Proje Açıklaması
 
----
-
-##  Özellikler
-
-*  Ev arkadaşı bulma sistemi
-*  Konut ilanı paylaşma ve görüntüleme
-*  Akıllı eşleşme algoritması
-*  Filtreleme ve arama özellikleri
-*  Kullanıcılar arası iletişim (planlanıyor)
+UniEv, üniversite öğrencilerinin ev arkadaşı bulmasını ve uygun konaklama seçeneklerine ulaşmasını sağlayan bir web tabanlı platformdur.
 
 ---
 
-##  Kullanılan Teknolojiler
+## 🎯 Projenin Amacı
 
-* Frontend: (React / HTML / CSS / JS yazabilirsin)
-* Backend: (Node.js / Firebase vs.)
-* Veritabanı: (MongoDB / PostgreSQL vs.)
+Öğrencilerin güvenli, hızlı ve kolay bir şekilde ev arkadaşı bulmasını ve konut ilanlarını inceleyerek doğru seçim yapmasını sağlamak.
 
 ---
 
-##  Kurulum
+## 🛠️ Kullanılan Teknolojiler
 
-Projeyi klonla:
+* HTML
+* CSS
+* JavaScript
+* (Varsa React / Node.js / Firebase buraya ekle)
+
+---
+
+## ⚙️ Kurulum Adımları
+
+Projeyi bilgisayarınıza indirin:
 
 ```bash
 git clone https://github.com/67melihuslu66-hue/UniEv.git
 ```
 
-Klasöre gir:
+Klasöre girin:
 
 ```bash
 cd UniEv
 ```
 
-Bağımlılıkları yükle:
+---
+
+## ▶️ Çalıştırma Adımları
+
+Eğer basit web projesiyse:
+
+* `index.html` dosyasını tarayıcıda açın
+
+Eğer npm kullanıyorsan:
 
 ```bash
 npm install
-```
-
-Projeyi başlat:
-
-```bash
 npm start
 ```
 
 ---
 
-##  Amaç
+## 🖼️ Ekran Görüntüleri
 
-UniEv, öğrencilerin güvenli, hızlı ve kolay bir şekilde konaklama çözümleri bulmasını hedefler.
+(Projenin ekran görüntülerini buraya ekleyebilirsin)
 
 ---
 
-## Geliştiriciler
+## ✨ Özellikler
 
-**Melih Kamil Uslu**
-**Kusai Aksoy**
-**Hashem Salem**
-**Namık Hassan**
-**Rama Hasanatu**
+* Ev arkadaşı bulma
+* Konut ilanı paylaşma
+* Kullanıcı dostu arayüz
+* Arama ve filtreleme
+
 ---
 
-Bu proje MIT lisansı ile lisanslanmıştır.
+## 📁 Klasör Yapısı
+
+```
+UniEv/
+│── index.html
+│── style.css
+│── script.js
+│── assets/
+```
+
+---
+
+## 🚀 Geliştirme Önerileri
+
+* Gerçek zamanlı mesajlaşma sistemi eklenebilir
+* Kullanıcı doğrulama sistemi geliştirilebilir
+* Mobil uyumluluk artırılabilir
+
+---
+
+## 👤 Katkıda Bulunanlar
+
+* Melih Kamil Uslu
+* Kusai Aksoy
+* Hashem Salem
+* Rama Hasanatu
+* Namık Hassan
+
+---
+
+## 📄 Lisans
+
+Bu proje eğitim amaçlı geliştirilmiştir.
