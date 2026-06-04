@@ -1,5 +1,4 @@
 <div align="center">
-
 # 🏠 UniEv
 
 ### Üniversite Ev Bulma ve Ev Arkadaşı Eşleştirme Platformu
@@ -7,6 +6,8 @@
 Kocaeli Sağlık ve Teknoloji Üniversitesi  
 Yazılım Laboratuvarı II – Proje 3  
 2025-2026 Bahar Dönemi
+</div>
+
 ---
 
 # 📖 Proje Açıklaması
