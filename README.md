@@ -1,18 +1,18 @@
-# 🏠 UniEv
+#  UniEv
 
-## 📌 Proje Açıklaması
+##  Proje Açıklaması
 
 UniEv, üniversite öğrencilerinin ev arkadaşı bulmasını ve uygun konaklama seçeneklerine ulaşmasını sağlayan bir web tabanlı platformdur.
 
 ---
 
-## 🎯 Projenin Amacı
+##  Projenin Amacı
 
 Öğrencilerin güvenli, hızlı ve kolay bir şekilde ev arkadaşı bulmasını ve konut ilanlarını inceleyerek doğru seçim yapmasını sağlamak.
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 * HTML
 * CSS
@@ -21,7 +21,7 @@ UniEv, üniversite öğrencilerinin ev arkadaşı bulmasını ve uygun konaklama
 
 ---
 
-## ⚙️ Kurulum Adımları
+##  Kurulum Adımları
 
 Projeyi bilgisayarınıza indirin:
 
@@ -37,7 +37,7 @@ cd UniEv
 
 ---
 
-## ▶️ Çalıştırma Adımları
+##  Çalıştırma Adımları
 
 Eğer basit web projesiyse:
 
@@ -52,7 +52,7 @@ npm start
 
 ---
 
-## 🖼️ Ekran Görüntüleri
+##  Ekran Görüntüleri
 
 (Projenin ekran görüntülerini buraya ekleyebilirsin)
 
