@@ -319,7 +319,7 @@ adresinde çalışacaktır.
 
 # 🎥 Lansman Videosu
 
-🔴🔴🔴 BURAYA LANSMAN VİDEOSU LİNKİNİ EKLEYİN 🔴🔴🔴
+https://youtu.be/BJKZr4FfNJQ
 
 ```md
 [Projeyi İzle](VIDEO_LINKI)
